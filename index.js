@@ -16,5 +16,5 @@ const load= ()=>{
         TextStyle.classList.add('text-decoration');
     },8000)  //1S =1000ms
 }
-
-setInterval(load(),12000);
+load();
+setInterval(load,12000);
