@@ -6,8 +6,18 @@
 body{
     background-color: rgb(34, 33, 33);
 }
+
+.container{
+    width: 90%;
+    margin: 200px  auto;
+}
 .container h1{
-    font-size: 60px;
+    font-size: 50px;
     font-family: montserrat;
     color: white;
+    font-weight: boldgi;
+}
+
+.text-decoration{
+    color: yellow;
 }
