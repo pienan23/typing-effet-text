@@ -1,0 +1,13 @@
+*{
+    margin: 0px ;
+    padding: 0px;
+}
+
+body{
+    background-color: rgb(34, 33, 33);
+}
+.container h1{
+    font-size: 60px;
+    font-family: montserrat;
+    color: white;
+}
